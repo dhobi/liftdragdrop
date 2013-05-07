@@ -10,4 +10,4 @@ For a running example:
 1. Clone / download liftdragdrop
 2. ./sbt
 3. container:start
-4. Have fun feeding the animals!
+4. Go to http://localhost:8080 and have fun feeding the animals!
